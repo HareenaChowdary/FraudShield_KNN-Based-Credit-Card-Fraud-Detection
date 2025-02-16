@@ -51,7 +51,16 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 📂 Dataset
 
 The dataset is from Kaggle:
-https://www.kaggle.com/code/maneesha96/fraud-detection-in-transaction-data-using-knn/input
+[creditcard.csv](https://www.kaggle.com/code/maneesha96/fraud-detection-in-transaction-data-using-knn/input)
+
+**Source:** This dataset contains credit card transactions made by European customers over two days in September 2013. 
+**Size:** 284,807 transactions; 30 features (V1-V28, Time, Amount).
+**Features:**
+   **V1-V28:** Anonymized via PCA.
+   **Time:** Seconds since the first transaction.
+   **Amount:** Transaction value.
+**Target Variable:**
+   **Class:** 1 (fraudulent) or 0 (non-fraudulent).
 
 ### 🌱 Contributing
 Contributions are always welcome! If you have suggestions, fixes, or features to add, please fork the repository and create a pull request. You can also open an issue to report bugs or request new features.
