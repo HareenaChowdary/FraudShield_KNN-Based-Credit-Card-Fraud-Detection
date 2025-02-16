@@ -43,7 +43,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
    ```
 4. Run the provided notebook to process data and train the KNN fraud detection model.
 
-## 💜 Results & Insights
+## 📈 Results & Insights
 - Accurate fraud detection with high precision and recall.
 - Fraud trends visualization for better risk assessment.
 - Business-driven insights for enhancing fraud prevention strategies.
